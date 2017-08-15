@@ -1,10 +1,10 @@
 interface Bicycle{
 
-   void changecCadence(int newValue)
+   void changecCadence(int newValue);
    
-   void changeGear(int newValue)
+   void changeGear(int newValue);
    
-   void speedUp(int increment)
+   void speedUp(int increment);
    
-   void applyBreak(int decrement) 
+   void applyBreak(int decrement);
 }
